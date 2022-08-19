@@ -13,11 +13,7 @@ li {
    list-style: none;
 }
 
-.full-screen {
-    transform: scale(0);
-    opacity: 0;
-    transition: 1s;
-}
+
 
 .full-screen.scroll {
     transform: scale(1);
