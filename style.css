@@ -25,24 +25,24 @@ li {
 }
 
 .full-screen:nth-child(1) {
-    background: url('images/img1.png') center / cover;
+    background: url('Images/img1.png') center / cover;
     height: 100vh;
     transform: scale(1);
     opacity: 1;
 }
 
 .full-screen:nth-child(2) {
-    background: url('images/img2.png') center / cover;
+    background: url('Images/img2.png') center / cover;
     height: 100vh;
 }
 
 .full-screen:nth-child(3) {
-    background: url('images/img7.png') center / cover;
+    background: url('Images/img7.png') center / cover;
     height: 100vh;
 }
 
 .full-screen:nth-child(4) {
-    background: url('images/img3.png') center / cover;
+    background: url('Images/img3.png') center / cover;
     height: 100vh;
 }
 
